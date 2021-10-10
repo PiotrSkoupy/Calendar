@@ -16,7 +16,7 @@ import pycountry
 if __name__ == "__main__":
     DATABASE = 'sqlite:///calendar_holidays.sqlite'
     TABLE = 'holidays'
-    TOKEN = 'ad945d10c64052e3a581c2ffda4c251762e6f56e'
+    TOKEN = '*'
 
     headers = {
         "Accept" : "application/json",
